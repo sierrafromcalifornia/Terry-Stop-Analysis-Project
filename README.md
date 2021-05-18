@@ -1,4 +1,4 @@
-![Theater Scene](images/zooey-deschanel-joseph-gordon-levitt-500-days-of-summer-vaRCdgM0fLNrW.gif)
+![Abolish the Police](images/Abolish-Police-2.jpg)
 
  
 # Terry Stop Project
@@ -21,13 +21,7 @@ In Terry v. Ohio (Links to an external site.), a landmark Supreme Court case in 
 
 ## Problem We're Tackling
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. I am charged with exploring what types of films are currently doing the best at the box office. I will also translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create and what they should keep in mind as they enter into a new and highly competitive sector.
-
-First, we'll tackle which type of films are worth focusing on and answer this by establishing which genres audiences favor most and which genres pull in the most return on investment (ROI).
-
-Second, since Microsoft doesn't know anything about creating movies - we'll hand over proven recommendations on who to hire with experience in a production's most pivotal roles. From directors to writers and more, we'll do a deep dive into the most revered among each role. We'll even give a little insight into some of the leading film studios behind the scenes. 
-
-Whether Microsoft wants to collaborate with the storytellers, bring them on as advisors, or simply have a greater understanding of the competition - that short list of people will be revealed.
+Data.gov has released a public dataset representing Terry Stops in Seattle, Washington, and the various factors that might influence both the original stop and the outcome of said stop. This informative data can help us evaluate the practice altogether and help us understand trends behind why a police officer makes a stop with "reasonable suspicion" and how objective the act truly is.
 
 ## Data
 
