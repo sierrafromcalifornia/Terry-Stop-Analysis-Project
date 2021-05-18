@@ -21,7 +21,11 @@ In Terry v. Ohio (Links to an external site.), a landmark Supreme Court case in 
 
 ## Problem We're Tackling
 
-Data.gov has released a public dataset representing Terry Stops in Seattle, Washington, and the various factors that might influence both the original stop and the outcome of said stop. This informative data can help us evaluate the practice altogether and help us understand trends behind why a police officer makes a stop with "reasonable suspicion" and how objective the act truly is.
+Data.gov has released a public dataset representing Terry Stops in Seattle, Washington, and the various factors that might influence both the original stop and the outcome of said stop.
+
+We'll build a classifier to help predict whether an arrest was made after a Terry Stop, given various factors like the presence of weapons, the subject's race and gender, and more.
+
+This informative data can also help us evaluate the practice altogether and help us understand trends behind why a police officer makes a stop with "reasonable suspicion" and how objective the act truly is.
 
 ## Data
 
