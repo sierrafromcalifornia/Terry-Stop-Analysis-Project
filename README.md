@@ -66,5 +66,7 @@ For any additional questions, please contact **Sierra Stanton** & stanton.sierra
 ├── README.md
 ├── dsc-terry-traffic-stops-working-notebook.ipynb
 ├── Terry_Stop_Analysis_Project.pdf
+├── data
 └── images
+
 ```
